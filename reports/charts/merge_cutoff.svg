@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+<rect width="100%" height="100%" fill="white"/><text x="500" y="25" text-anchor="middle" font-family="Arial" font-size="18">MergeSort mean normalized runtime by cutoff</text>
+<line x1="65" y1="355" x2="970" y2="355" stroke="#333"/><line x1="65" y1="45" x2="65" y2="355" stroke="#333"/>
+<line x1="65" y1="355.0" x2="965" y2="355.0" stroke="#ddd"/><text x="55" y="359.0" text-anchor="end" font-family="Arial" font-size="11">0.00</text>
+<line x1="65" y1="277.5" x2="965" y2="277.5" stroke="#ddd"/><text x="55" y="281.5" text-anchor="end" font-family="Arial" font-size="11">0.51</text>
+<line x1="65" y1="200.0" x2="965" y2="200.0" stroke="#ddd"/><text x="55" y="204.0" text-anchor="end" font-family="Arial" font-size="11">1.01</text>
+<line x1="65" y1="122.5" x2="965" y2="122.5" stroke="#ddd"/><text x="55" y="126.5" text-anchor="end" font-family="Arial" font-size="11">1.52</text>
+<line x1="65" y1="45.0" x2="965" y2="45.0" stroke="#ddd"/><text x="55" y="49.0" text-anchor="end" font-family="Arial" font-size="11">2.02</text>
+<rect x="67.5" y="45.0" width="23.125" height="310.0" fill="#3977b8"><title>cutoff 1: 2.0213</title></rect>
+<text x="79.0625" y="373" text-anchor="middle" font-family="Arial" font-size="10">1</text>
+<rect x="95.625" y="93.25895515023785" width="23.125" height="261.74104484976215" fill="#3977b8"><title>cutoff 2: 1.7066</title></rect>
+<text x="107.1875" y="373" text-anchor="middle" font-family="Arial" font-size="10">2</text>
+<rect x="123.75" y="110.46612215540151" width="23.125" height="244.5338778445985" fill="#3977b8"><title>cutoff 3: 1.5945</title></rect>
+<rect x="151.875" y="126.065911582502" width="23.125" height="228.934088417498" fill="#3977b8"><title>cutoff 4: 1.4927</title></rect>
+<text x="163.4375" y="373" text-anchor="middle" font-family="Arial" font-size="10">4</text>
+<rect x="180.0" y="135.92443865854898" width="23.125" height="219.07556134145102" fill="#3977b8"><title>cutoff 5: 1.4285</title></rect>
+<rect x="208.125" y="137.91661735347913" width="23.125" height="217.08338264652087" fill="#3977b8"><title>cutoff 6: 1.4155</title></rect>
+<text x="219.6875" y="373" text-anchor="middle" font-family="Arial" font-size="10">6</text>
+<rect x="236.25" y="144.4664568058906" width="23.125" height="210.5335431941094" fill="#e69500"><title>cutoff 7: 1.3728</title></rect>
+<rect x="264.375" y="148.0525574858049" width="23.125" height="206.9474425141951" fill="#3977b8"><title>cutoff 8: 1.3494</title></rect>
+<text x="275.9375" y="373" text-anchor="middle" font-family="Arial" font-size="10">8</text>
+<rect x="292.5" y="150.04596153944354" width="23.125" height="204.95403846055646" fill="#3977b8"><title>cutoff 9: 1.3364</title></rect>
+<rect x="320.625" y="157.22086779273113" width="23.125" height="197.77913220726887" fill="#e69500"><title>cutoff 10: 1.2896</title></rect>
+<text x="332.1875" y="373" text-anchor="middle" font-family="Arial" font-size="10">10</text>
+<rect x="348.75" y="166.2011083779335" width="23.125" height="188.7988916220665" fill="#3977b8"><title>cutoff 11: 1.2310</title></rect>
+<rect x="376.875" y="175.51217137712746" width="23.125" height="179.48782862287254" fill="#3977b8"><title>cutoff 12: 1.1703</title></rect>
+<text x="388.4375" y="373" text-anchor="middle" font-family="Arial" font-size="10">12</text>
+<rect x="405.0" y="177.3002017729929" width="23.125" height="177.6997982270071" fill="#3977b8"><title>cutoff 13: 1.1587</title></rect>
+<rect x="433.125" y="181.26508224854283" width="23.125" height="173.73491775145717" fill="#3977b8"><title>cutoff 14: 1.1328</title></rect>
+<text x="444.6875" y="373" text-anchor="middle" font-family="Arial" font-size="10">14</text>
+<rect x="461.25" y="174.27569197384335" width="23.125" height="180.72430802615665" fill="#3977b8"><title>cutoff 15: 1.1784</title></rect>
+<rect x="489.375" y="179.96550086231372" width="23.125" height="175.03449913768628" fill="#3977b8"><title>cutoff 16: 1.1413</title></rect>
+<text x="500.9375" y="373" text-anchor="middle" font-family="Arial" font-size="10">16</text>
+<rect x="517.5" y="180.72357386432412" width="23.125" height="174.27642613567588" fill="#3977b8"><title>cutoff 17: 1.1363</title></rect>
+<rect x="545.625" y="183.37577893288872" width="23.125" height="171.62422106711128" fill="#3977b8"><title>cutoff 18: 1.1191</title></rect>
+<text x="557.1875" y="373" text-anchor="middle" font-family="Arial" font-size="10">18</text>
+<rect x="573.75" y="185.67878045457016" width="23.125" height="169.32121954542984" fill="#3977b8"><title>cutoff 19: 1.1040</title></rect>
+<rect x="601.875" y="186.16253413607978" width="23.125" height="168.83746586392022" fill="#3977b8"><title>cutoff 20: 1.1009</title></rect>
+<text x="613.4375" y="373" text-anchor="middle" font-family="Arial" font-size="10">20</text>
+<rect x="630.0" y="187.06443542235613" width="23.125" height="167.93556457764387" fill="#3977b8"><title>cutoff 21: 1.0950</title></rect>
+<rect x="658.125" y="182.0230546468267" width="23.125" height="172.9769453531733" fill="#3977b8"><title>cutoff 22: 1.1279</title></rect>
+<text x="669.6875" y="373" text-anchor="middle" font-family="Arial" font-size="10">22</text>
+<rect x="686.25" y="186.945791643323" width="23.125" height="168.054208356677" fill="#3977b8"><title>cutoff 23: 1.0958</title></rect>
+<rect x="714.375" y="183.4928450225961" width="23.125" height="171.5071549774039" fill="#3977b8"><title>cutoff 24: 1.1183</title></rect>
+<text x="725.9375" y="373" text-anchor="middle" font-family="Arial" font-size="10">24</text>
+<rect x="742.5" y="183.17152612334678" width="23.125" height="171.82847387665322" fill="#3977b8"><title>cutoff 25: 1.1204</title></rect>
+<rect x="770.625" y="184.6336774262107" width="23.125" height="170.3663225737893" fill="#3977b8"><title>cutoff 26: 1.1109</title></rect>
+<text x="782.1875" y="373" text-anchor="middle" font-family="Arial" font-size="10">26</text>
+<rect x="798.75" y="184.5573819240074" width="23.125" height="170.4426180759926" fill="#3977b8"><title>cutoff 27: 1.1113</title></rect>
+<rect x="826.875" y="182.66966620346355" width="23.125" height="172.33033379653645" fill="#3977b8"><title>cutoff 28: 1.1237</title></rect>
+<text x="838.4375" y="373" text-anchor="middle" font-family="Arial" font-size="10">28</text>
+<rect x="855.0" y="180.69546460753455" width="23.125" height="174.30453539246545" fill="#3977b8"><title>cutoff 29: 1.1365</title></rect>
+<rect x="883.125" y="181.27502949555267" width="23.125" height="173.72497050444733" fill="#3977b8"><title>cutoff 30: 1.1328</title></rect>
+<text x="894.6875" y="373" text-anchor="middle" font-family="Arial" font-size="10">30</text>
+<rect x="911.25" y="173.11324773767677" width="23.125" height="181.88675226232323" fill="#3977b8"><title>cutoff 31: 1.1860</title></rect>
+<rect x="939.375" y="173.19431346264744" width="23.125" height="181.80568653735256" fill="#3977b8"><title>cutoff 32: 1.1854</title></rect>
+<text x="950.9375" y="373" text-anchor="middle" font-family="Arial" font-size="10">32</text>
+<text x="500" y="400" text-anchor="middle" font-family="Arial" font-size="12">Cutoff (orange bars mark the course reference values 7 and 10; lower is better)</text></svg>
